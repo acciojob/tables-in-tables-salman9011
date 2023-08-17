@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#bg-chk
+{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
